@@ -1,0 +1,17 @@
+body{
+  text-align: justify;
+  background-color: #7C83FD;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: white;
+  text-align: center;
+}
+li{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  margin:  5%;
+  color: #141E61;
+}
